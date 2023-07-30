@@ -1,0 +1,22 @@
+Lesson contents:
+1 - Import text files into Excel.
+2 - Formulas to split cells =LEFT = MID
+=RIGHT
+3 - VLOOKUP formula
+4 - IF formula
+5 - CONCATONATE formula
+6 - Pivot tables
+7 - Charts
+8 - Copy results to a report in Microsoft
+
+CAM
+crv•
+cog
+MTG
+OOY
+scv
+Canvey
+Caravan
+Mustang
+Odyssey
+PT cruiser
